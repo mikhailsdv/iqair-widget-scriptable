@@ -46,6 +46,8 @@ The screenshots are generated from the real script with mock data (see [Developm
 
 ## Installation
 
+First, install [Scriptable from the App Store](https://apps.apple.com/app/scriptable/id1405459188). It's free.
+
 **Option A: import the `.scriptable` file**
 
 1. On your iPhone, download [`iqair-aqi.scriptable`](iqair-aqi.scriptable).
