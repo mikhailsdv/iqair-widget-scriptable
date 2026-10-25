@@ -1,0 +1,10 @@
+{
+  "name": "iqair-widget-scriptable",
+  "private": true,
+  "description": "IQAir air quality (AQI) widget for Scriptable on iOS",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "screenshots": "node scripts/screenshots/index.mjs"
+  }
+}
