@@ -496,7 +496,7 @@ function createWidget(d, stale) {
   w.addSpacer(2)
 
   const row = w.addStack()
-  row.bottomAlignContent()
+  row.centerAlignContent()
   const num = row.addText(String(d.aqi))
   num.font = Font.boldRoundedSystemFont(44)
   num.textColor = p.accent
